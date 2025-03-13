@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @taeyoung0001
+- 👋 Hi, I’m @taeyoung0001 , call me young!
 - 👀 I’m interested in front-end
 - 💕 I love self-development.
 - 🫡 Respect everyone
