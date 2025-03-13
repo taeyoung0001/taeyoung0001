@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @taeyoung0001
 - 👀 I’m interested in front-end
+- 💕 I love self-development.
+- 🫡 Respect everyone
 
 Hello. I am hoping to become a front-end developer.
 I value communication with my team members and always strive to communicate actively.
