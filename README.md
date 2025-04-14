@@ -1,12 +1,14 @@
 - 👋 Hi, I’m @taeyoung0001 , call me young!
 - 👀 I’m interested in front-end
 - 💕 I love self-development.
+- 🫡 I hope full-stack-development
 - 💕 I love team communication.
 - 🫡 Respect everyone
 
-
 Hello. I am hoping to become a front-end developer.
 I value communication with my team members and always strive to communicate actively.
+I'm studying Python these days and learning crawling.
+
 thank you.
 
 my e-mail : <a>her020212@naver.com</a>
