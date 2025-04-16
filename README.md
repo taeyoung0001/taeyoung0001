@@ -5,7 +5,7 @@
 - 💕 I love team communication.
 - 🫡 Respect everyone
 
-Hello. I am front-end developer.
+Hello. I am front-end developer. </br>
 I value communication with my team members and always strive to communicate actively.
 I'm studying Python these days and learning crawling.
 
